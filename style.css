@@ -1,0 +1,16 @@
+.one {
+    background: bisque;
+}
+
+.out {
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.bg-orange {
+    background: orange;
+}
+
+.three {
+    border: 2px solid red;
+}
